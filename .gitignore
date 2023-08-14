@@ -59,3 +59,6 @@ venv
 !/repositories/.placeholder
 !/models/VAE-approx
 !/models/VAE-approx/model.pt
+extensions-builtin/seed_travel/
+extensions-builtin/sd-extension-aesthetic-scorer/
+extensions-builtin/sd-extension-steps-animation/
