@@ -62,3 +62,5 @@ venv
 extensions-builtin/seed_travel/
 extensions-builtin/sd-extension-aesthetic-scorer/
 extensions-builtin/sd-extension-steps-animation/
+extensions-builtin/sd-webui-agent-scheduler
+extensions-builtin/sd-webui-agent-scheduler
